@@ -13,3 +13,6 @@ Bonjour, je m'appelle Livio Rubino et j'ai 21 ans. Je suis actuellement étudian
 ## OS
 
 - ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=FCC624&labelColor=000000) ![Windows](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=0078D6&labelColor=000000)
+
+## Visitors
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWarKyseSs%2FWarKyseSs&label=Visitors&countColor=%23263759&style=flat)
