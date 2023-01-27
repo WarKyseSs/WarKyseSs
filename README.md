@@ -1,5 +1,6 @@
 ## Mon profil GitHub
 
+Bonjour, je m'appelle Livio Rubino et j'ai 21 ans. Je suis actuellement étudiant en troisième année à la HELHA de Mons, où je suis en formation en informatique de gestion. Je suis passionné par l'informatique et j'aime travailler sur des projets qui me permettent de mettre en pratique mes connaissances.
 
 ## Langages de programmation
 
