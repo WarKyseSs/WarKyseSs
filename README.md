@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/WarKyseSs/WarKyseSs/blob/main/masterhead.gif)]()
+[![MasterHead]()]()
 <h1 align="center">Hi 👋, I'm Livio</h1>
 <h3 align="center">I am 21 years old. I am currently a third year student at HELHA in Mons (Belgium), where I am studying business informatics. I am passionate about IT and I like working on projects that allow me to put my knowledge into practice.</h3>
 
