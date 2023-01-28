@@ -1,8 +1,17 @@
-[![MasterHead]()]()
-<h1 align="center">Hi 👋, I'm Livio</h1>
+[![MasterHead](https://github.com/WarKyseSs/WarKyseSs/blob/main/masterhead.gif)]()
+<h1 align="center">Hi 👋, I'm Livio 🤯</h1>
 <h3 align="center">I am 21 years old. I am currently a third year student at HELHA in Mons (Belgium), where I am studying business informatics. I am passionate about IT and I like working on projects that allow me to put my knowledge into practice.</h3>
+<img align="right" alt="Coding" width="260" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=warkysess&label=Profile%20views&color=0e75b6&style=flat" alt="warkysess" /> </p>
+
+- 🔭 I’m currently working on **TomorrowLab Application**
+
+- 🌱 I’m currently learning **Flutter, Firebase, Material UI**
+
+- 📫 How to reach me **https://www.linkedin.com/in/livio-rubino-503b91227/**
+
+- ⚡ Fun fact **I need to sleep more**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
