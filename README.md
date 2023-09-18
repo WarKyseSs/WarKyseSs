@@ -10,7 +10,7 @@
 </div>
 <div>
   <h1 align="center">Hi 👋, I'm Livio 🤯</h1>
-  <h3 align="center">I am 21 years old. I am currently a third year student at HELHA in Mons (Belgium), where I am studying business informatics. I am passionate about IT and I like working on projects that allow me to put my knowledge into practice.</h3>
+  <h3 align="center">I am 21 years old. I'm currently a graduate of the Bachelier Informatique de Gestion program, having studied for 3 years at the HELHa in Mons (Belgium). I am passionate about IT and I like working on projects that allow me to put my knowledge into practice.</h3>
 </div>
 
 <div>
@@ -18,9 +18,9 @@
   <h2 align="left">:woman_technologist: About Me :</h2>
   <img align="right" alt="Coding" width="250" src="https://cdn.dribbble.com/users/330915/screenshots/3587000/media/343cb53c87e313181d99248d3071bc77.gif">
 
-  - 🔭 I’m currently working on **TomorrowLab Application**
+  - 🔭 I’m currently working on **Find a job**
 
-  - 🌱 I’m currently learning **Flutter, Firebase, Material UI**
+  - 🌱 I’m currently learning **How to sleep**
 
   - ⚡ Fun fact **I need to sleep more**
 
