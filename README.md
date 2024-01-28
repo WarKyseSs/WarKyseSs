@@ -10,7 +10,7 @@
 </div>
 <div>
   <h1 align="center">Hi 👋, I'm Livio 🤯</h1>
-  <h3 align="center">I am 21 years old. I'm currently a graduate of the Bachelier Informatique de Gestion program, having studied for 3 years at the HELHa in Mons (Belgium). I am passionate about IT and I like working on projects that allow me to put my knowledge into practice.</h3>
+  <h3 align="center">I am 22 years old. I'm currently a graduate of the Bachelier Informatique de Gestion program, having studied for 3 years at the HELHa in Mons (Belgium). I am passionate about IT and I like working on projects that allow me to put my knowledge into practice.</h3>
 </div>
 
 <div>
